@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="barqsoft.footballscores.AboutActivity$PlaceholderFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="@string/about_text"
+        android:textSize="12sp"
+        android:padding="16dp"
+        android:lineSpacingMultiplier="1.2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
+<!-- From: file:/Users/amhamogus/AndroidStudioProjects/Football_Scores-master/app/src/main/res/layout/fragment_about.xml -->

@@ -1,0 +1,9 @@
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/coverage-instrumented-classes/debug
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-109761caa081ccae90aea03b03d7a76c9ef0d694.jar
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/android-integration-3.2.1-b2b0fe66f5b6046d2b426fdd37c7ce93faddf874.jar
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-abec232262d3bfd25ee9b42a99d9c4cf0a873cff.jar
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-d06e428e57ce841b1d9842478cf136b12828e80a.jar
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7faa18e2567cb33c201ef3bd09ad1a3f71d457f5.jar
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/jacocoagent-74247f4c634d5efc8f2ebeec92cfc84131f66964.jar
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-36a22a3b0707713dce5e75225dedb20389b98b4a.jar
+/Users/amhamogus/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-699cc4f4e43d02bd468ccfd120db49bfa5984859.jar
